@@ -4,5 +4,7 @@ Personal portfolio website of Akubatthini Vasu, an entry-level Data Analyst skil
    git add .
    git commit -m "first commit"
    git branch -M main
-   git remote add origin https://github.com//portfolio.git
+   git remote add origin https://github.com/Akubatthini vasu/portfolio.git
    git push -u origin main
+
+   
